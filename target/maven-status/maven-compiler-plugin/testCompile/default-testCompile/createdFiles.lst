@@ -1,0 +1,6 @@
+com\lumaproject\testsuite\MenTest.class
+com\lumaproject\testsuite\GearTest.class
+com\lumaproject\testsuite\WomenTest.class
+com\lumaproject\testng\TestNGListener.class
+com\lumaproject\testbase\BaseTest.class
+com\lumaproject\testng\RetryAnalyser.class
